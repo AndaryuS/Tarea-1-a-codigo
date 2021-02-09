@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NumerosRomanos {
+public class numerosRomanos {
 
     public static void main(String[] args) {
         String a,b,c,d,e,f,g,h,i,j;

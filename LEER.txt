@@ -1,0 +1,12 @@
+Esta es la tarea numero 2 que trata de convertir el Pseudocodigo de la tarea no.1 a lenguaje en java
+por errores al compilar no se puede agregar un numero a los archivos para tenerlos ordenados pero el ordenes:
+1.numerosRomanos
+2.velocidad
+3.promeidio
+4.edad
+5.productos
+6.paroImpar
+7.rectanglo
+8.mayoroMenor
+9.potencia
+10.tablas

@@ -1,5 +1,5 @@
 import java.util.*;
-public class mayoromenor {
+public class mayoroMenor {
     public static void main(String[] args) {
         int numero1,numero2;
         Scanner entrada=new Scanner(System.in);

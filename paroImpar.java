@@ -1,5 +1,5 @@
 import java.util.*;
-public class paroimpar {
+public class paroImpar {
     public static void main(String[] args) {
         int numero;
         Scanner entrada = new Scanner(System.in);
